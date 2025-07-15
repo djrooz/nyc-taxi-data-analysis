@@ -2,7 +2,7 @@ nyc-taxi-data-analysis
 Exploratory data analysis of NYC taxi rides: demand distribution by time and borough.
 
 NYC Taxi Data Analysis  
-This project was completed as part of the “More Pandas” course on Karpov.courses.
+
 
 📌 Project Goal  
 To analyze NYC taxi ride data and uncover demand patterns across time and city boroughs.
@@ -24,7 +24,7 @@ Matplotlib, Seaborn
 
 🇷🇺 Русская версия  
 Анализ поездок на такси в Нью-Йорке  
-Проект выполнен в рамках курса «Ещё больше о Pandas».
+
 
 📌 Цель проекта  
 Проанализировать распределение поездок на такси по районам Нью-Йорка и времени.
